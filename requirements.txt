@@ -1,8 +1,4 @@
 requests
-fake-useragent
-Faker
 psutil
-sqlite3
-threading
-telebot
-bs4
+pyTelegramBotAPI
+Flask
