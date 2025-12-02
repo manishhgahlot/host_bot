@@ -1,6 +1,8 @@
 requests
 fake-useragent
 Faker
-pyTelegramBotAPI
+psutil
+sqlite3
+threading
 telebot
 bs4
